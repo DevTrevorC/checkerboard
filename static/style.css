@@ -1,0 +1,16 @@
+h1 {
+    margin: 20px;
+    font-size: 3.5em;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    padding: 0;
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    margin: 0;
+}
